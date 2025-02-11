@@ -1,5 +1,5 @@
 import * as React from "react"
-import { cn } from "@repo/design-system/lib/utils"
+import { cn } from "@repo/lib/utils"
 import { ButtonProps, buttonVariants } from "@repo/design-system/components/ui/button"
 import { ChevronLeftIcon, ChevronRightIcon, DotsHorizontalIcon } from "@radix-ui/react-icons"
 

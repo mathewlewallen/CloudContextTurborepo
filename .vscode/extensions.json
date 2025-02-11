@@ -1,6 +1,6 @@
 {
   "recommendations": [
-    "biomejs.biome",
+    "dbaeumer.vscode-eslint",
     "bradlc.vscode-tailwindcss",
     "Prisma.prisma",
     "unifiedjs.vscode-mdx",
