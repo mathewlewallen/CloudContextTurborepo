@@ -23,7 +23,7 @@
     "@auto-it/first-time-contributor": "^11.3.0",
     "@repo/typescript-config": "workspace:*",
     "@turbo/gen": "^2.4.0",
-    "@types/node": "^18.19.75",
+    "@types/node": "^22.13.1",
     "eslint": "9.20.0",
     "eslint-plugin-next": "0.0.0",
     "eslint-plugin-react": "7.37.4",

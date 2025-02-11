@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "@repo/typescript-config": "workspace:*",
-    "@types/node": "^18.19.75",
+    "@types/node": "^22.13.1",
     "@types/react": "^18.3.1",
     "@types/react-dom": "^18.3.1",
     "concurrently": "^9.1.2",
