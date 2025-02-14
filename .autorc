@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "npm",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "mathewlewallen",
+  "repo": "cloudcontext",
+  "name": "Mathew Lewallen",
+  "email": "mathew@cloudcontext.com"
+}
